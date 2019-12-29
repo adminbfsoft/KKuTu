@@ -1,0 +1,67 @@
+{
+  "$global": {
+    "LICENSE": "<blockquote>글자로 놀자! 끄투 온라인 Copyright (C) {#0} {#1}({#2})<br>이 프로그램은 제품에 대한 어떠한 형태의 보증도 제공되지 않습니다.<br>이 프로그램은 자유 소프트웨어이며 배포 규정을 만족시키는 조건 아래 자유롭게 재배포할 수 있습니다.<br>이에 대한 자세한 사항은 본 프로그램의 구현을 담은 다음 레포지토리에서 확인하십시오: <a target='_blank' href='{#3}'>{#3}</a></blockquote>",
+
+    "GLOBAL_NOTICE": "클릭해서 닫기",
+    "CREATOR":	"원작자 블로그",
+    "SANDBOX": "샌드박스 :: SDBX",
+	"DSC": "디스코드",
+    "NCF": "네이버 카페",
+	"A1": "문서",
+	"AGR": "서비스 이용 약관",
+	"PRIV": "개인정보 취급 방침",
+	"OPOINGAME": "인게임 운영 정책",
+	"OPODISCORD": "디스코드 운영 정책",
+	"FEAT": "제휴",
+	"PLAYTS": "PlayTS",
+	"OURKKT": "아워끄투",
+	"MDKKT": "모두끄투",
+	"KKT25": "끄투25시",
+	"KAKAO": "카카오 끄투",
+	"KKTCRAFT": "끄투크래프트",
+	"JNKKT": "쭈니끄투",
+	"IWANT": "제휴 관련 문의",
+	"BFSOFT": "BFSoft",
+	"ADMINMAIL": "관리자 메일",
+	"ACCMAIL": "bfk@playts.net",
+
+    "support-dictionary": "사전 정보 제공: <a href='https://wordnet.princeton.edu/' target='_blank'>WordNet</a><br>WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved.",
+    "support-etc": "도움: <a href='https://cafe.naver.com/sdbx' target='_blank'>샌드박스 :: SDBX</a>",
+	"MEANSUPPORT": "단어 뜻 제공: <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/kr/' target='_blank'>위키백과 (위키피디아), 나무위키</a>, 네이버 사전, 윅셔너리",
+	"madewith": "BFKKuTu는 BFSoft에서 제작하여 BFSoft와 PlayTS에서 공동 서비스하는 웹 게임입니다.",
+	"BGMHelp": "BGM: <a href='https://www.youtube.com/watch?v=H8PX5PInrJY' target='_blank'>라크다르 - 새로운 시작</a>",
+    "PLAYTSHelp": "본 서버는 PlayTS 연맹의 도메인, 서비스를 사용하고 있습니다.",
+	
+	"AGREEMENT": "서비스 이용 약관",
+    "PRIVACY": "개인정보 취급 방침",
+	"OPOLICY": "운영 정책",
+	"AGREEMENT_LINK": "<a href='http://agreement.bfkkutu.ze.am' target='_blank'>서비스 이용 약관</a>",
+    "PRIVACY_LINK": "<a href='http://privacy.bfkkutu.ze.am' target='_blank'>개인정보 취급 방침</a>",
+	"OPOLICY_LINK1": "<a href='http://ingame.bfk.kro.kr' target='_blank'>인게임 운영 정책</a>",
+	"OPOLICY_LINK2": "<a href='http://discord.bfk.kro.kr' target='_blank'>디스코드 운영 정책</a>"
+  },
+  "Index": {
+    "title": "새로운 끄투의 시작, BF끄투!",
+
+    "server-counter": "총 {#0}명",
+    "server-enter": "접속",
+    "server-list": "서버 목록",
+    "x-server-refresh": "서버 목록을 다시 불러옵니다.",
+
+    "game-start": "게임 시작!",
+
+    "server-0": "BFKKuTu TEST",
+
+    "refreshing": "잠시 기다려 주세요."
+  },
+  "Play": {
+    "title": "새로운 끄투의 시작, BF끄투!",
+
+    "loading": "불러오는 중",
+    "loading-remain": "불러오는 중 ({#0} 남음)",
+    "welcome": "환영합니다.",
+
+    "closed": "서버와의 연결이 끊어졌습니다. (오류 #{#0})",
+    "compatibility-error": "지원하는 브라우저가 아닙니다."
+  }
+}
